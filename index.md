@@ -11,6 +11,7 @@ layout: home
 - [Stephanie Bruno](https://www.linkedin.com/in/brunostephanie/), Microsoft MVP - Grand High Witch at [Data Witches](https://data-witches.com/)
 - [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/), Microsoft Fabric PM, Data Witch
 - [Jasmin Simader](https://www.linkedin.com/in/jasmin-simader/) , Microsoft MVP, Data & BI Consultant at Data Therapy
+- [Kathrin Borchert](https://www.linkedin.com/in/k-borchert/), Microsoft MVP, Consultant/Founder at YoDaBI
 
 # What's in store 🌙✨
 
