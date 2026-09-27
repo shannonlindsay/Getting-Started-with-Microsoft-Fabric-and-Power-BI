@@ -6,16 +6,10 @@ lab:
 
 # Presentation Links 🪄
 
-Today's workshop includes two presentations, in addition to the interactive labs you all will be completing! Stephanie will present in the morning, and you'll work on your Fabric labs before lunch.
+Today's workshop combines a short presentation with hands-on labs. In the morning, we'll build the backend in Fabric. In the afternoon, we'll create a Power BI report and explore data visualization best practices.
 
-In the afternoon, Lakshmi will present on Power BI, and you'll finish up your Power BI labs (that build on the morning labs) before the end of the day!
+By the end of the day, you'll have an understanding of what Fabric and Power BI can offer, along with ideas for the topics and sessions you may want to explore next.
 
-Please find the slides from today's presentation. Let us know what questions you have!
+Find the slides from today's presentation below. We welcome your questions.
 
-- [Morning slides](https://4lbi.sharepoint.com/:b:/s/filesfromYQ/IQCdmsvqxG5NQahp5IFYFBRkAXwX-TmfDdde-j3q888uIOE?e=59t1MY) - Microsoft Fabric with Stephanie Bruno
-- [Afternoon slides](https://4lbi.sharepoint.com/:b:/s/filesfromYQ/IQAK7gBe3BkFTJUuVoY6GINhAcIEfpuBcxRWES35_Eu2Y4Y?e=E1yz4w) - Power BI with Santhana Lakshmi Ponnurasan
-
-
-
-
-
+- [All slides](https://4lbi.sharepoint.com/:b:/s/filesfromYQ/IQAv9G8wjxyqQZUtHzE16D1uAYZtyv6sz4VxPpDIrjoA_90?e=PNIGcZ)

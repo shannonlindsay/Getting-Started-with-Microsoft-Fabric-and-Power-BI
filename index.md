@@ -10,6 +10,7 @@ layout: home
 
 - [Stephanie Bruno](https://www.linkedin.com/in/brunostephanie/), Microsoft MVP - Grand High Witch at [Data Witches](https://data-witches.com/)
 - [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/), Microsoft Fabric PM, Data Witch
+- [Jasmin Simader](https://www.linkedin.com/in/jasmin-simader/) , Microsoft MVP, Data & BI Consultant at Data Therapy
 
 # What's in store 🌙✨
 
@@ -19,7 +20,7 @@ Should questions arise like whispers in the forest, fear not. Cast your message 
 
 Begin your adventure below, and may the stars guide your path.
 
-*Translation: Hyperlinks to everything you need to know about today's session are listed below. If you have any questions, you can submit a [GitHub issue](https://github.com/shannonlindsay/FabricSpells101/issues/new) or reach out to us via email.*
+*Translation: Hyperlinks to everything you need to know about today's session are listed below. If you have any questions, you can submit a [GitHub issue](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/issues/new) or reach out to us via email.*
 
 ## Course Links - labs and additional resources 🔮🪄
 
