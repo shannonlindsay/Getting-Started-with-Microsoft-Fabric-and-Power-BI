@@ -9,16 +9,7 @@ layout: home
 ## Meet your instructors! 
 
 - [Stephanie Bruno](https://www.linkedin.com/in/brunostephanie/), Microsoft MVP - Grand High Witch at [Data Witches](https://data-witches.com/)
-- [Lakshmi Ponnurasan](https://www.linkedin.com/in/santhanalakshmip/), Microsoft MVP, Power BI Dataviz World Champs Finalist - Data Analyst at Missouri University of Science and Technology
-
-## Meet your proctors!
-
-We'll have proctors/helpers popping in and out throughout the day to help you! If you have questions, these folks are here to help! 
-
-- [Belinda Allen](https://www.linkedin.com/in/msbelindaallen/)
-- [Jackie Kiadii](https://www.linkedin.com/in/jkiadii/)
-- [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/)
-
+- [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/), Microsoft Fabric PM, Data Witch
 
 # What's in store 🌙✨
 
@@ -32,7 +23,7 @@ Begin your adventure below, and may the stars guide your path.
 
 ## Course Links - labs and additional resources 🔮🪄
 
-**[SharePoint Link for Lab Instructions](https://4lbi.sharepoint.com/:f:/s/filesfromYQ/IgD31AEn-9PIRqPDArYSNk31Af6d91ifWLQemOYso1KXTEI?e=sWEobd)**
+**[SharePoint Link for Lab Instructions](https://4lbi.sharepoint.com/:f:/s/filesfromYQ/IgA1sPPC5jOtTLQuFuleXWNdAQdp_clMwq6NgzfDFglKfbc?e=VvnaU5)**
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
 | Topic | Link |
