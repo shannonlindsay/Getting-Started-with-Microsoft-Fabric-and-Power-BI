@@ -6,10 +6,6 @@ lab:
 
 # Resources
 
-## Starter .pbix file and other lab resources
-
-All resources from today's workshop can be found in the [GitHub repo](https://github.com/shannonlindsay/FabricSpells101/tree/queen/Allfiles/Labs).
-
 ## Lab instructions as a PDF
 
 If you're unable to use the website Scribe because of workplace restrictions on your browsing, download the lab instructions [from the SharePoint folder](https://4lbi.sharepoint.com/:f:/s/filesfromYQ/IgA1sPPC5jOtTLQuFuleXWNdAQdp_clMwq6NgzfDFglKfbc?e=VvnaU5).
